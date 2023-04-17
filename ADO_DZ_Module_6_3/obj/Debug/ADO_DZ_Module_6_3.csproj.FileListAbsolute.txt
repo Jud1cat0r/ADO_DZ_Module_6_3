@@ -1,0 +1,13 @@
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\ADO_DZ_Module_6_3.exe.config
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\ADO_DZ_Module_6_3.exe
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\ADO_DZ_Module_6_3.pdb
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\EntityFramework.dll
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\EntityFramework.xml
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.csproj.AssemblyReference.cache
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.csproj.CoreCompileInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.csproj.CopyComplete
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.exe
+C:\Users\gamej\Desktop\C#\DZ\ADO.NET\ADO_DZ_Module_6_3\ADO_DZ_Module_6_3\obj\Debug\ADO_DZ_Module_6_3.pdb
